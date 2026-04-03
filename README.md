@@ -1,1 +1,1 @@
-# InnoWing-MoCap-User-Guide
+# InnoWing-Motion Capture Team
