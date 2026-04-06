@@ -1,10 +1,10 @@
-# HKU Tam Wing Fan Innovation Wing's 3D Motion Capture System — README
+# HKU Tam Wing Fan Innovation Wing 3D Motion Capture System — README
 
 ## Overview
 
 This github repo provides a complete workflow for operating **3D Optical Motion Capture System** in Event Hall B using **Vicon Nexus 2.16**. It covers system calibration, subject setup, motion capture, and data export.
 
-This guide is intended for students, researchers, and lab users working in the HKU Faculty of Engineering Motion Capture Lab.
+This guide is intended for students, researchers, and users in HKU Tam Wing Fan Innovation Wing.
 
 ---
 
@@ -12,7 +12,7 @@ This guide is intended for students, researchers, and lab users working in the H
 
 * **System Name:** 3D Optical Motion Capture System
 * **Software:** Vicon Nexus 2.16
-* **Location:** Event Hall B
+* **Location:** Tam Wing Fan Innovation Wing Event Hall B
 * **Version:** 0.10 (Last updated: 02 April 2026)
 
 ### Equipment & Accessories
